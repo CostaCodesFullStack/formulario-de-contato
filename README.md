@@ -24,7 +24,7 @@ Um formulário de contato simples e elegante construído com React e Node.js.
 
 1. Clone o repositório:
 \`\`\`bash
-git clone https://github.com/SEU_USUARIO/formulario-de-contato.git
+git clone https://github.com/CostaCodesFullStack/formulario-de-contato.git
 \`\`\`
 
 2. Instale as dependências:
